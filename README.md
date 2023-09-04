@@ -34,11 +34,12 @@ Bonus:
 
 ### Screenshot
 
-![Screenshot]
+![Screenshot](https://github.com/ashiq120/kanban-task-management-web/assets/62802119/46c4b704-6df8-4a3d-865e-c10abf238d82)
+
 
 ### Links
 
-- Live Site URL: [link]
+- Live Site URL: [link](https://kanban-task-management-web.netlify.app/)
 
 ### Built with
 
